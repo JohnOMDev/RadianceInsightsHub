@@ -48,6 +48,7 @@ Repository Structure
 	•	README.md: Overview of the analysis project and instructions for accessing the notebooks.
 
 Data
+
 The data can be gotten from the following link: [RadianceHub CSV](https://raw.githubusercontent.com/notpeter/crunchbase-data/master/companies.csv)
 
 Getting Started
